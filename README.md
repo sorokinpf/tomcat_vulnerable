@@ -1,4 +1,4 @@
 ## Tomcat vulnerable
 
 Tomcat with tomcat/tomcat on `/manager/html`
-Just for security testing.
+Just for security traning.
